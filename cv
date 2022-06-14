@@ -1,0 +1,92 @@
+# details<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h3>personal details</h3>
+<ul>
+    <li>address:almora,uttarakhand</li>
+    <li>mobile no:7817917884</li>
+    <li>email:mjeenaalm09@gmail.com</li>
+</ul>
+<form action="mailto:mjeenaalm09@gmail.com" method="post" enctype="text/plain">
+    <label>your name:</label>
+    <input type="text" name="fullname"><br>
+    <label >email:</label>
+    <input type="email" name="email"><br>
+    <label >password:</label>
+    <input type="password"name="pass"><br>
+    <textarea name="type your message" id="" cols="30" rows="10"></textarea>
+    <input type="submit">
+</form>
+</body>
+</html>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>my hobbies</title>
+</head>
+<body>
+    <h3>my hobbies</h3>
+    <ol>
+        <li><a href="https://www.netflix.com/">web series</a> </li>
+        <li><a href="https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwj9_Ijdqqr4AhWYhksFHXBNBj8YABAAGgJzZg&ohost=www.google.com&cid=CAESbOD2K3Hvu9CmPxzMmT254TjLm0JuyrSmd9CLoRJ6e-oxU-R7oPFCkRP6qWqsnLsNUVt_uXTKA23_zIRcpaQQ9VtTXIzNevYC0yAV9vljfG9bGz_975RtuSmDIfpCqIs40mJfJ1UVDXQn8WJ8sA&sig=AOD64_1lKCcXqn7w3wbVRjNRapzWB25FPA&q&adurl&ved=2ahUKEwjUrYHdqqr4AhWB2DgGHditAsEQ0Qx6BAgDEAE">listning music</a></li>
+        <li>traveling</li>
+    </ol>
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <table cellspacing="1">
+        <tr>
+          <td> <img src="images/crop.png" alt="virat kohli picture"></td> 
+        
+          <td>  <h1>mohit jeena</h1>
+    <p><em>student in<strong><a href="https://www.kunainital.ac.in/"> kumaun university,nainital</a></strong></em></p>
+    <p>i am a web developer and i 💓coffee </p></td>
+        </tr>
+    </table>
+    <hr>
+    <h3>books and teaching</h3>
+    <ul>
+        <li>think and grow rich</li>
+        <li>rich dad poor dad</li>
+    </ul>
+    <hr>
+    <table cellspacing="3">
+        <tr><th>date</th>
+        <th>work</th></tr>
+        <tr><td>2018</td>
+        <td>school education</td></tr>
+        <tr><td>2018-2021</td>
+        <td>college education</td></tr>
+    </table>
+    <hr>
+    <h3>skills</h3>
+    <table cellspacing="10">
+        <tr><td>HTML 	&#10029;&#10029;&#10029;&#10029;</td>
+        <td>CSS 	&#10029;&#10029;&#10029;</td></tr>
+
+        <tr><td>JAVA SCRIPT  	&#10029;&#10029;&#10029;</td>
+        <td>BOOTSTRAP 	&#10029;&#10029;&#10029;</td></tr>
+    </table>
+    <hr>
+   <a href="hobbies.html">My hobbies</a>
+   <a href="contact.html">contact me</a>
+</body>
+</html>
